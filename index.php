@@ -20,6 +20,7 @@
     }
 </style>
 
+    
 <!-- <body>
     <div class="btn">
     <button><a href="process/process.php">Run</a></button>
@@ -39,6 +40,7 @@
   <input type="text" id="mager" name="mager" value="SE"><br><br>
   <input type="submit" value="Submit">
 </form> 
+    
 
 <!-- <form action="process/process.php" method="get">
   <label for="fname">First name:</label><br>
@@ -48,7 +50,9 @@
   <input type="submit" value="Submit">
 </form>  -->
 
+    
 <button><a href="process/process.php?fname='Ahmad'&lname='Ghanem'&age=20&mager='SE'">Run</a></button>
 
+    
 </body>
 </html>
